@@ -1,4 +1,4 @@
-# airflow-wid-kubernetes
+# airflow-on-kubernetes
 This repo maintains manifest files to perform simple Airflow deployment including it's components: webserver, scheduler, db-migrations,postgresql database on  multinode (3 VMs) kubernetes cluster environment.
 
 This is very helpful for the start with setting up Airflow on Kubernetes cluster for beginners. This stores the basic yet neccessary files required to make airflow running on the Kubernetes.
